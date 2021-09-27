@@ -1,6 +1,6 @@
 import { obtenerRobots } from "./array";
 
-describe('Pruebas de arreglos', () => {
+describe('Pruebas de arrays', () => {
   it('Debe de retornar al menos 4 robots', () => {
     const res = obtenerRobots();
     expect( res.length ).toBe(4);
