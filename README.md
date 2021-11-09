@@ -1,2 +1,2 @@
 # UdemyAngular
-Ejercicios realizados en cursos de Udemy sobre Angular
+Ejercicios realizados en cursos sobre Angular
